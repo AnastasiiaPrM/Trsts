@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Travelling by Italy">
+    <title>Travel Agency Page</title>
+  </head>
+  <body>
+    <h1>Beautiful Italy</h1>
+    <p>Nice food, interesting ways in the comfortable climat, kidness people, great lakes. Everything in Italian trip!</p>
+    <h2>Packages</h2>
+    <p>We offer an extensive range of holiday solutions to accommodate the needs of all our clients. From daily excursions in the most beautiful cities, to thorough tours of hidden villages and medieval towns to discover Italy's lesser-known sides.</p>
+    <ul>
+      <li>
+        <a target="_blank" href="https://www.freecodecamp.org/learn"<title>Group Travels</title></a>
+        </li>
+      <li>
+        <a target="_blank" href="https://www.freecodecamp.org/learn"<title>Private Tours</title></a>
+        </li>
+      </ul>
+      <h2>Top Itineraries</h2>
+      <figure>
+        <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Milan_Cathedral_016_4995.jpg/800px-Milan_Cathedral_016_4995.jpg" alt="Milano"></a>
+      <figcaption>Milan</figcaption>
+      </figure>
+      <figure>
+        <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Colosseum%2C_Rome%2C_wts.jpg/1200px-Colosseum%2C_Rome%2C_wts.jpg" alt="Roma"></a>
+        <figcaption>Rome</figcaption>
+        </figure>
+        <figure>
+          <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://tournavigator.pro/%D1%84%D0%BE%D1%82%D0%BE/other_1020_1009_1545561657.jpg" alt="Florence"></a>
+          <figcaption>Florence</figcaption>
+        </figure>
+  </body>
+  </html>
